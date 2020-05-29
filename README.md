@@ -16,7 +16,7 @@ The quarantine situation isn’t ideal when we look at it upfront, but it has br
 
 We need to write custom shaders to make air pollution fog that will change itself (density, speed, color, etc) based on real time data like wind speed and time so that it can simulate real life air pollution. We will do this by making particle-based fog that can be altered with sliders. We also need to make water, which will be done with 3d models and normal maps.
 
-We also need to create and/or assemble 3D models that represent the cities of LA, Wuhan, and Hong Kong. A method of doing this is by importing 3D models of each city from OpenStreetMaps or google maps into blender and adding in models that’s not covered in the import. We also need to either texture the models or figure out how to export texture data before using it in three.js. 
+We also need to create and/or assemble 3D models that represent the cities of LA, Wuhan, and Hong Kong. A method of doing this is by importing 3D models of each city from OpenStreetMaps or google maps into blender and adding in models that’s not covered in the import. We also need to either texture the models or figure out how to export texture data before using it. We will use Unity for this project.
 
 ### 4. Main challenges of the project, the "What?" 
 
@@ -38,10 +38,8 @@ Color of pollution * Finnegan
 
 Someone make the skyline (or more)* Attie
 
-Extra: Someone move the particles (based on wind speed and direction)  * TBD
+Extra: Someone move the particles (based on wind speed and direction)  * Quan
 
 Extra: pull real-time data/ historical data (for time lapse)	* Quan
 
 Extra: change materials quality of surfaces *TBD
-
-Extra: Oskar’s homogeneous lighting function (Gaussian lighting) * Lawrence
