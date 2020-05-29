@@ -38,8 +38,8 @@ Color of water pollution * Finnegan
 
 Someone make the skyline (or more)* Attie
 
-Extra: Someone move the particles (based on wind speed and direction)  * Quan
+Someone move the particles (based on wind speed and direction)  * Quan
 
-Extra: pull real-time data/ historical data (for time lapse)	* Quan
+pull real-time data/ historical data (for time lapse)	* Quan
 
-Extra: change materials quality of surfaces *TBD
+Script for camera location changes * Attie
