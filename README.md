@@ -30,11 +30,11 @@ Water pollution levels	* Finnegan
 
 Someone makes particles (randomly dispersed) * Lawrence
 
-changes density of particles slider * Quan
+changes density of particles slider * Lawrence
 
-Someone makes clouds appear from particles	* Lawrence
+Someone makes clouds appear from particles	* Lawrence & Finnegan
 
-Color of pollution * Finnegan
+Color of water pollution * Finnegan
 
 Someone make the skyline (or more)* Attie
 
