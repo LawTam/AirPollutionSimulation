@@ -26,20 +26,24 @@ The primary challenges of this project will be finding ways of incorporating rea
 
 https://github.com/LawTam/AirPollutionSimulation
 
-Water pollution levels	* Finnegan
+Someone makes particles (randomly dispersed) * Finnegan & Lawrence
 
-Someone makes particles (randomly dispersed) * Lawrence
-
-changes density of particles slider * Lawrence
+changes density of particles slider * Finnegan
 
 Someone makes clouds appear from particles	* Lawrence & Finnegan
 
-Color of water pollution * Finnegan
+Someone make ocean * Finnegan
 
-Someone make the skyline (or more)* Attie
+Day and Night cycle * Lawrence
 
-Someone move the particles (based on wind speed and direction)  * Quan
+Someone make the skyline (or more)* Attie & Finnegan
 
-pull real-time data/ historical data (for time lapse)	* Quan
+Someone move the particles (based on wind speed and direction)  * Finnegan & Quan
+
+pull real-time data/ historical data (for time lapse)	* Finnegan & Quan
 
 Script for camera location changes * Attie
+
+### Changes
+1. We switched from Three.js to Unity because of more intuitive development and wider array of tools at our disposal.
+2. For more accurate datasets, we went on a monthly by monthly basis for the smog simulation.
