@@ -44,6 +44,8 @@ pull real-time data/ historical data (for time lapse)	* Finnegan & Quan
 
 Script for camera location changes * Attie
 
+User-interface for camera change * Attie
+
 ### Changes
 1. We switched from Three.js to Unity because of more intuitive development and wider array of tools at our disposal.
 2. For more accurate datasets, we went on a monthly by monthly basis for the smog simulation.
