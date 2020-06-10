@@ -28,17 +28,17 @@ https://github.com/LawTam/AirPollutionSimulation
 
 Someone makes particles (randomly dispersed) * Finnegan & Lawrence
 
-changes density of particles slider * Finnegan
+Changes density of particles UI slider * Finnegan
 
-Someone makes clouds appear from particles	* Lawrence & Finnegan
+Make clouds appear from particles	* Lawrence & Finnegan
 
-Someone make ocean * Finnegan
+Make ocean * Finnegan
 
 Day and Night cycle * Lawrence
 
-Someone make the skyline (or more)* Attie & Finnegan
+Make the skyline (or more)* Attie & Finnegan
 
-Someone move the particles (based on wind speed and direction)  * Finnegan & Quan
+Move the particles (based on wind speed and direction)  * Finnegan & Quan
 
 pull real-time data/ historical data (for time lapse)	* Finnegan & Quan
 
