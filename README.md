@@ -26,8 +26,6 @@ The primary challenges of this project will be finding ways of incorporating rea
 
 https://github.com/LawTam/AirPollutionSimulation
 
-Someone makes particles (randomly dispersed) * Finnegan & Lawrence
-
 changes density of particles slider * Finnegan
 
 Someone makes clouds appear from particles	* Lawrence & Finnegan
