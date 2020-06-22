@@ -57,10 +57,18 @@ User-interface for camera change * Attie & Finnegan
 
 ### Fix 1 (Lawrence)
 1. Converted the scene to HDRP, which requires:
+
 a. updating all materials to hdrp materials via Edit > Render Pipeline
+
 b. reassigning all objects their respective materials
+
 c. adding 'Sky and Fog Volume' GameObject to scenes, to enable HDRP game world lighting
+
+d. removed the Day/Night controller and Skybox Script from the MasterController due to reasoning in problem #1.
 
 ---
 Problems:
-2. Skyboxes do not "really" exist in HDRP, so we need to update the sky and fog volume to handle changes in lighting values for the day/night toggle.
+
+1. Skyboxes do not "really" exist in HDRP, so we need to update the sky and fog volume to handle changes in lighting values for the day/night toggle.
+
+
