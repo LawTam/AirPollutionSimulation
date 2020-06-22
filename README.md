@@ -54,3 +54,10 @@ User-interface for camera change * Attie & Finnegan
 1. We switched from Three.js to Unity because of more intuitive development and wider array of tools at our disposal.
 2. For more accurate datasets, we went on a monthly by monthly basis for the smog simulation.
 3. We removed simulating water pollution from our original idea.
+
+### Fix 1 (Lawrence)
+1. Converted the scene to HDRP, which requires:
+a. updating all materials to hdrp materials via Edit > Render Pipeline
+b. reassigning all objects their respective materials
+c. adding 'Sky and Fog Volume' GameObject to scenes, to enable HDRP game world lighting
+2. Fixing the HDRP skybox to be affected by the Day/Night toggle.
