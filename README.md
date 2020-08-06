@@ -1,3 +1,9 @@
+# Air Pollution Simulation
+Download Air Pollution Simulation.lnk and run the application to start the simulation! (Only works in Windows at the moment).
+
+Due to large file sizes I have avoided pushing the Unity project source code to this repository. If you would like to see the source code, please do not hesistate to ask!
+
+
 ### 1. Group members 
 
 Lawrence Tam
