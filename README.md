@@ -1,7 +1,7 @@
 # Air Pollution Simulation
 Download Air Pollution Simulation.lnk and run the application to start the simulation! (Only works in Windows at the moment).
 
-Due to large file sizes I have avoided pushing the Unity project source code to this repository. This repository contains the final application and testing files. To see the source code, refer to my teammate's repository: https://github.com/fdamorejohann/Smog-Simulator
+Due to large file sizes I have avoided pushing the Unity project source code to this repository. This repository contains the final application executable and testing files. To see the source code for our final application, refer to my teammate's repository: https://github.com/fdamorejohann/Smog-Simulator
 
 
 ### 1. Group members 
